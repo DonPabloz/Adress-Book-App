@@ -1,2 +1,3 @@
-# Readme
-This is my training stuff for github
+# Adress Book
+Code written in Python.
+I am using tkinter for GUI.

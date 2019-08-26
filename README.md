@@ -1,2 +1,2 @@
 # Programs
-Here you can find code for applications that I have made.
+Here you can find code (in Python) for applications that I have made.
